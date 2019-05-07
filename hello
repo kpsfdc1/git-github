@@ -5,3 +5,6 @@ class hello	#dev1
 		system.out.pritln("hello from dev2");
 	}
 }#dev1
+line8
+line9
+line10
